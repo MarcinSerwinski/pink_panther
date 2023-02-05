@@ -1,0 +1,7 @@
+.idea
+pink_panther
+.vscode
+**/*.pyc
+db.sqilte3
+.DS.Store
+
