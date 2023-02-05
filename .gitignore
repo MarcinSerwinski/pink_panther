@@ -4,5 +4,11 @@ pink_panther
 **/*.pyc
 db.sqlite3
 .DS.Store
-
+venv
 staticfiles
+
+htmlcov
+.coverage
+.coverage.*
+coverage.xml
+*.cover
