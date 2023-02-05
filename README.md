@@ -1,4 +1,5 @@
 ### THE PINK PANTHER 
+```https://pinkanimatedpanther.pythonanywhere.com/```
 
 ### Installation
 * Clone the repository 
