@@ -5,3 +5,4 @@ pink_panther
 db.sqlite3
 .DS.Store
 
+staticfiles
